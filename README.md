@@ -22,7 +22,7 @@ uvicorn resume_parser.app:app --port 6000 --reload
 
 Then send a POST request. Example(curl):
 ```
-curl -F "file=@/path/to/resume.pdf" http://localhost:8000/parse-resume/
+curl -F "file=@/path/to/resume.pdf" http://localhost:6000/parse-resume/
 ```
 
 Response:
