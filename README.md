@@ -1,12 +1,12 @@
 # Resume Parser API
 
-This repository contains a simple resume-parsing framework & a REST API around it (FastAPI + Pydantic).
+This repository contains a simple resume-parsing framework & a REST API around it (FastAPI + Pydantic). Logs are displayed in the terminal and saved to file using Loguru.
 
 ## Features
 
 - Parses PDF and Word (.docx) resumes.  
 - Extracts `name`, `email`, and `skills`.  
-- Skills extraction uses a dummy LLM-based client (you can swap in a real one).  
+- Skills extraction uses a OpenAI LLM-based client.  
 - Exposes an HTTP API to upload a resume and get structured JSON.
 
 ## Requirements
