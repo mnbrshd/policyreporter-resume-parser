@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic[email]
+pdfplumber
+python-docx
+openai-agents
+json-repair
+loguru

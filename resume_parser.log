@@ -1,0 +1,13 @@
+2025-12-09 22:24:20.100 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:24:35.242 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:24:45.591 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:25:05.467 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:25:24.106 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:25:34.633 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:25:59.889 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:26:06.397 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:26:19.915 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:28:08.947 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:28:14.826 | INFO     | resume_parser.app:<module>:27 - Starting Resume Parser API
+2025-12-09 22:28:20.042 | INFO     | resume_parser.app:parse_resume:49 - Received file for parsing
+2025-12-09 22:28:23.483 | INFO     | resume_parser.app:parse_resume:63 - Parsed resume successfully
