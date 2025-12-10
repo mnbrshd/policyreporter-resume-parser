@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Running the API
 
 ```bash
-uv run uvicorn resume_parser.app:app --port 6000 --reload
+uvicorn resume_parser.app:app --port 6000 --reload
 ```
 
 Then send a POST request. Example(curl):
